@@ -1,2 +1,7 @@
 # image
 images/
+*.png
+*.ico
+*.jpg
+*.svg
+*.jpeg
