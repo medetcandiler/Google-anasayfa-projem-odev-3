@@ -10,7 +10,7 @@ Merhaba, ben Medetcan, Aslen Makine Mühendisi olsam da bilgisayar, bilgisayar b
 * SVG elementi çalışmaları
 ---
 Proje örnek görsel:
-![Proje görseli](images/proje%C3%B6rnekg%C3%B6rsel_800x450.jpg)
+![Proje görseli](https://i.hizliresim.com/i7lqxes.jpg)
 
 ---
 
